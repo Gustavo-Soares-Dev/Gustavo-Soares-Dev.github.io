@@ -95,6 +95,7 @@ h2{
 
 #sobre{
     display: flex;
+    flex-direction: column;
     height: 665px;
     flex-wrap: wrap;
     justify-content: center;
