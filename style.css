@@ -94,7 +94,6 @@ h2{
 }
 
 #sobre{
-    display: flex;
     height: 665px;
     flex-wrap: wrap;
     justify-content: center;
