@@ -105,6 +105,18 @@ h2{
     margin-bottom: 10px;
 }
 
+#sobre  (max-width: 800px){
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: lavender;
+    padding-top: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
 #sobre a{
     text-decoration: underline;
     color: black;
@@ -112,11 +124,6 @@ h2{
 
 #sobre p{
     display: inline-block;
-    margin-bottom: 15px;
-}
-#sobre p (max-width: 800px) {
-    display: inline-block;
-    font-size: 1em;
     margin-bottom: 15px;
 }
 
