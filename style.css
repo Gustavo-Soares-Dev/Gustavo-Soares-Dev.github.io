@@ -185,4 +185,5 @@ footer {
 @media (max-width: 600px)
     #sobre {
         height: 900px;
+        font-size 0.8em
 }
