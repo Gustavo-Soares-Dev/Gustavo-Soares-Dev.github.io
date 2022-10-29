@@ -110,8 +110,13 @@ h2{
     color: black;
 }
 
-#sobre p{
+#sobre p (min-width: 800px) {
     display: inline-block;
+    margin-bottom: 15px;
+}
+#sobre p (max-width: 800px) {
+    display: inline-block;
+    font-size: 0.5em;
     margin-bottom: 15px;
 }
 
