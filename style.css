@@ -116,7 +116,7 @@ h2{
 }
 #sobre p (max-width: 800px) {
     display: inline-block;
-    font-size: 0.8em;
+    font-size: 1em;
     margin-bottom: 15px;
 }
 
