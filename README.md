@@ -1,2 +1,2 @@
 # Gustavo-Soares-Dev.github.io
-Esse é apenas um portfólio que fiz.
+Esse é meu site como desenvolvedor freelancer.
