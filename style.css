@@ -122,8 +122,8 @@ h2 {
 #linguagens {
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 80px;
-    margin-top: 80px;
+    margin-bottom: 20px;
+    margin-top: 20px;
     max-width: 100%;
 }
 
@@ -142,6 +142,7 @@ h2 {
 }
 
 #linguagens p {
+    margin-top: 15px;
     margin-bottom: 15px;
 }
 
