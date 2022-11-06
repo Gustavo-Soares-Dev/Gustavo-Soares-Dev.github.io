@@ -30,7 +30,7 @@ nav img {
 }
 
 nav ul li {
-    width: 30%;
+    width: min-content;
     margin: 10px;
     justify-self: flex-end;
 }
