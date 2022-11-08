@@ -81,6 +81,10 @@ body {
     font-size: 1.2em;
 }
 
+p{
+     margin: 15px;
+}
+
 h1,
 h2,
 h3 {
