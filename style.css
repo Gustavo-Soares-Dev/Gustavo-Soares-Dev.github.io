@@ -6,6 +6,11 @@
     width: 100%;
 }
 
+p{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
 nav {
     display: flex;
     color: white;
