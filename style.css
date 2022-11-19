@@ -107,7 +107,7 @@ h2 {
     padding-top: 5px;
     width: 100%;
     margin-bottom: 10px;
-    font-size: clamp(0.98rem, 1.4vw, 1.2rem);
+    font-size: clamp(0.98rem, 1.4vw, 1.1rem);
 }
 
 #sobre a {
