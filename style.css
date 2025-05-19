@@ -79,6 +79,7 @@ a {
 body {
     font-family: 'Inconsolata', monospace;
     font-size: 1.2em;
+    max-width: 1500px;
 }
 
 h1,
