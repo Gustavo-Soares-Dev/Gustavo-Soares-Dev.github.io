@@ -1,2 +1,2 @@
 # Gustavo-Soares-Dev.github.io
-Esse é meu site como desenvolvedor freelancer.
+Esse é um site para um trabalho escolar
